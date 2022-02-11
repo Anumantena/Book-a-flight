@@ -1,0 +1,15 @@
+Use case.
+
+
+
+list of results(useEffect) -> search(input, onChange event) -> filtered list
+(results)
+
+onChange event -> results
+
+[{ name: 'test1' }, { name: 'test2' }, { name: 'test3' }]
+
+// I/O - n steps, 
+
+test2 -> 
+debouncing concept

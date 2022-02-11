@@ -1,0 +1,24 @@
+{
+  "name": "externalapiwithcache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "axios-jsonp-pro": "^1.1.8",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonp": "^0.2.1",
+    "jsonp-client": "^1.2.2",
+    "jsonp-fallback": "^1.1.2",
+    "node-cache": "^5.1.2",
+    "node-jsonp": "^1.0.2",
+    "redis": "^4.0.2"
+  }
+}
