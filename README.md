@@ -1,0 +1,2 @@
+# Book-a-flight
+Built a single page web application that displays information about various airlines using React JS, material UI and Node JS. Application has two views list view which displays all the airlines information where users can search for different flights and details view consists of flight information. Users could track flights using flight tracker  page with information for requested flight. 
